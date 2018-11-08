@@ -1,4 +1,5 @@
 rootProject.name = 'rxjava_experiments'
 include 'chapter1'
 include 'chapter3'
+include 'random'
 
